@@ -20,6 +20,6 @@ MVC in : client/src/main/java
 - Lombok
 - Java Sockets
 - MySQL
-- PMD static analysis tool(there isn't a single best practice violation in the project)
+- PMD static analysis tool
 
 # Database Design(MySQL)
