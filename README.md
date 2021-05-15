@@ -2,6 +2,8 @@
 
 - MVC in : client/src/main/java
 
+- TestCode in : client/src/test/java/TestCode
+
 - Desktop App based on client-server architecture(Sockets are used for communication) used to manage a garden.
 - there are 2 types of users: regular user(gardener) and administrator  
 	The regular user can perform the following operations:
