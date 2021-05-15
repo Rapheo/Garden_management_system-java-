@@ -1,4 +1,4 @@
-package bll.service;
+package TestCode.bil.service;
 
 import Controller.service.PlantService;
 import Controller.execptions.ServerConnectionException;

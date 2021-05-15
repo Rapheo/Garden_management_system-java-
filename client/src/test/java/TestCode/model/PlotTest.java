@@ -1,5 +1,6 @@
-package model;
+package TestCode.model;
 
+import model.Plot;
 import org.junit.Before;
 import org.junit.Test;
 
