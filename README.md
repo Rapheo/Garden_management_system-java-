@@ -1,6 +1,6 @@
 # About
 
-MVC in : client/src/main/java
+- MVC in : client/src/main/java
 
 - Desktop App based on client-server architecture(Sockets are used for communication) used to manage a garden.
 - there are 2 types of users: regular user(gardener) and administrator  
@@ -20,6 +20,6 @@ MVC in : client/src/main/java
 - Lombok
 - Java Sockets
 - MySQL
-- PMD static analysis tool(there isn't a single best practice violation in the project)
+- PMD static analysis tool
 
 # Database Design(MySQL)
